@@ -282,7 +282,7 @@ app.get("/privacy", (_req, res) => {
   <p>האפליקציה לא משתמשת בשירותי אנליטיקס, פרסום או מעקב.</p>
 
   <h2>יצירת קשר</h2>
-  <p>לשאלות בנוגע למדיניות זו: <a href="mailto:lorin@example.com">lorin@example.com</a></p>
+  <p>לשאלות בנוגע למדיניות זו: <a href="mailto:lorin.totah0@gmail.com">lorin.totah0@gmail.com</a></p>
 </body>
 </html>`);
 });
